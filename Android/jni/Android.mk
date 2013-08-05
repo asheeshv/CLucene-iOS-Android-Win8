@@ -3,13 +3,13 @@ LOCAL_PATH := $(TOP_PATH)
 include $(CLEAR_VARS)
 LOCAL_MODULE           	:= clucene
 
-CORE_CLUCENE_DIR        := ../../core/CLucene
-CONTRIBS_LIB_DIR	:= ../../contribs-lib/CLucene
-SHARED_DIR		:= ../../shared/CLucene
+CORE_CLUCENE_DIR        := ../../CLucene/core/CLucene
+CONTRIBS_LIB_DIR	:= ../../CLucne/contribs-lib/CLucene
+SHARED_DIR		:= ../../CLucene/shared/CLucene
 
-CORE_LUCENE_INCLUDE 	:= $(TOP_PATH)/../../core
-CONTRIBS_LUCENE_INCLUDE := $(TOP_PATH)/../../contribs-lib
-SHARED_LUCENE_INCLUDE 	:= $(TOP_PATH)/../../shared
+CORE_LUCENE_INCLUDE 	:= $(TOP_PATH)/../../CLucene/core
+CONTRIBS_LUCENE_INCLUDE := $(TOP_PATH)/../../CLucene/contribs-lib
+SHARED_LUCENE_INCLUDE 	:= $(TOP_PATH)/../../CLucene/shared
 
 
 LOCAL_SRC_FILES  := \
