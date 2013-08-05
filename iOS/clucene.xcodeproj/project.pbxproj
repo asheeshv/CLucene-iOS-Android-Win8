@@ -922,7 +922,7 @@
 				515D017E16A77B6E009638FD /* util */,
 			);
 			name = CLucene;
-			path = ../core/CLucene;
+			path = ../CLucene/core/CLucene;
 			sourceTree = SOURCE_ROOT;
 		};
 		515D006716A77B6E009638FD /* analysis */ = {
@@ -1343,7 +1343,7 @@
 				515DF7C216A7422E009638FD /* util */,
 			);
 			name = CLucene;
-			path = ../shared/CLucene;
+			path = ../CLucene/shared/CLucene;
 			sourceTree = SOURCE_ROOT;
 		};
 		515DF7AD16A7422E009638FD /* config */ = {
@@ -1404,7 +1404,7 @@
 				518AA15316BAF43A0001202E /* util */,
 			);
 			name = CLucene;
-			path = "../contribs-lib/CLucene";
+			path = "../CLucene/contribs-lib/CLucene";
 			sourceTree = SOURCE_ROOT;
 		};
 		518AA0E116BAF43A0001202E /* analysis */ = {
