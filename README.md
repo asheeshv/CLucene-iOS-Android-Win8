@@ -21,3 +21,7 @@ The Win-8 visual studio solution file still needs to be added. I plan to do it l
 
 
 Folks are invited to use it and post any suggestions, changes or improvements to the existing structure.
+
+LICENSE:
+=============
+Apache/LGPL licensed (which is what the CLucene library is licensed with as well)
